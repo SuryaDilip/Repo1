@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2E42-04B2
+
+ Directory of C:\Users\Surya Dilip I\Desktop\MyProject
+
+14-Apr-20  08:30 PM    <DIR>          .
+14-Apr-20  08:30 PM    <DIR>          ..
+14-Apr-20  08:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  623,514,341,376 bytes free
